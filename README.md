@@ -7,9 +7,6 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on bugbounty&pentest/red team tools
 - 🌱 I’m currently learning more advanced Python & Go
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-->
 - 📫 How to reach me: Twitter, Mail or LinkedIn. Same name across.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Mountains are not just funny, they are hill areas
