@@ -7,6 +7,6 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on bugbounty & pentest/red team tools
 - 🌱 I’m currently learning more advanced Python & Go
-- 📫 How to reach me: Twitter, Mail or LinkedIn. Same name across.
+- 📫 How to reach me: <a href="https://twitter.com/CasperGN"><img src="https://img.shields.io/twitter/follow/CasperGN"></a>, Mail or LinkedIn. Same name across.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Mountains are not just funny, they are hill areas
