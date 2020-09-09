@@ -1,4 +1,6 @@
-[![CasperGN's github stats](https://github-readme-stats.vercel.app/api?username=CasperGN&count_private=true&theme=dark&include_all_commits=true&show_icons=true)](https://github.com/CasperGN/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/CasperGN/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=CasperGN&count_private=true&theme=dark&include_all_commits=true&show_icons=true"></a>
+</p>
 <p align="center">
   <a href="mailto:whopsec@protonmail.com">:email:</a>
 </p>  
