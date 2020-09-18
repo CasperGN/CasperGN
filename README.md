@@ -10,6 +10,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/casper-guldbech-nielsen-a03168100/"><img src="https://github.com/CasperGN/CasperGN/blob/master/linkedin.jpg"></a>
 </p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/CasperGN" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee"></a>
+</p>
 <p></br></p>
 <p align="center">
   I :heart: Open Source
